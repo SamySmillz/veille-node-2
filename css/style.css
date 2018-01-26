@@ -32,6 +32,10 @@ nav ul li a {
   color: white;
   background-color: black;
 }
+.footerNav ul li a:hover {
+  background-color: white;
+  color: black;
+}
 footer {
   position: absolute;
   right: 0;
