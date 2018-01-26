@@ -3,7 +3,6 @@ git remote add origin https://github.com/SamySmillz/Veille-node.git
 git push -u origin master
 
 git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w
-git add .<nom du fichier> // indexer un seul fichier
 git add . // indexer l'ensemble des fichiers modifiés
 
 git status 
