@@ -51,19 +51,12 @@ div.gallerie {
 }
 div.gallerie:hover {
   border: 1px solid #777;
-
 }
 div.gallerie img {
   width: 100%;
   height: auto;
-
 }
-img:hover {
-  background-color:yellow;
-}
-
 div.desc {
   padding: 16px;
   text-align: center;
-  color: white;
 }
