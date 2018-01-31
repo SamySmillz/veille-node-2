@@ -78,14 +78,14 @@ div.desc:hover {
   opacity: 1;
 }
 .footerNav {
-  background-color: black;
+  background-color: #5CCCCC;
   height: 50px;
   border: 1px solid white;
   border-radius: 65px;
 }
 .footerNav ul li a {
   color: white;
-  background-color: black;
+  background-color: transparent;
 }
 .footerNav ul li a:hover {
   background-color: white;
