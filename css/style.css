@@ -25,6 +25,9 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
 }
+nav ul li a:hover {
+  text-decoration: underline;
+}
 #contenu-img {
   display: flex;
   justify-content: center;
