@@ -36,7 +36,6 @@ nav ul li a {
 .footerNav ul li a:hover {
   background-color: white;
   color: black;
-  padding: 10px;
 }
 footer {
   position: absolute;
