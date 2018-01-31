@@ -16,13 +16,14 @@ main {
   font-family: 'Rammetto One', cursive;
 }
 .headerNav {
-  background-color: beige;
+  background-color: #ffde6a;
   padding: 10px;
 }
 nav ul {
   display: flex;
   justify-content: space-evenly;
   padding: 0;
+  font-weight: 300;
 }
 nav ul li {
   list-style-type: none;
