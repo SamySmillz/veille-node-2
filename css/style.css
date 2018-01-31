@@ -15,6 +15,10 @@ main {
   padding: 30px;
   font-family: 'Rammetto One', cursive;
 }
+.headerNav {
+  background-color: beige;
+  padding: 10px;
+}
 nav ul {
   display: flex;
   justify-content: space-evenly;
